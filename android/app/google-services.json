@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382392239284",
+    "firebase_url": "https://camino-guardian.firebaseio.com",
+    "project_id": "camino-guardian",
+    "storage_bucket": "camino-guardian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382392239284:android:ec2eb30e750fa68f",
+        "android_client_info": {
+          "package_name": "com.theoxomowoman.caminoguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382392239284-81fcda9eu79vvi80tnios9rf1alkquoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theoxomowoman.caminoguardian",
+            "certificate_hash": "3c9702859a803758af2824b82ef65531bde871ae"
+          }
+        },
+        {
+          "client_id": "382392239284-tl6ebsnf6pgfuv933kj7e3fa9m2h8s8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1-vVnFriXyltsc-zNfSdyGYUS8Yyf_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382392239284-tl6ebsnf6pgfuv933kj7e3fa9m2h8s8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
