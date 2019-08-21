@@ -1,6 +1,6 @@
-# camino_guardian
+# Camino Guardian
 
-A new Flutter application.
+A Flutter and Dart application safety communications system for pilgrims on the Camino de Santiago
 
 ## Getting Started
 
